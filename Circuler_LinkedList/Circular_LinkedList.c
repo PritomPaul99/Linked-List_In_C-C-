@@ -23,7 +23,7 @@ void main()
         printf("01. Create a list.\n");
         printf("02. Insert at beginning.\n");
         printf("03. Insert at end.\n");
-        printf("04. IsCircular?");
+        printf("04. IsCircular?\n");
         printf("09. Print List.\n");
         printf("00. Exit the program.\nEnter choice:- ");
         scanf("%d", &ch);
