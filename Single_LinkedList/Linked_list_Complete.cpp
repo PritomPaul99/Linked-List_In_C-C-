@@ -197,7 +197,6 @@ void insert_at_front(int item)
             printf("\nData inserted in the front successfully.\n");
 
             return;
-            
         }
         else
         {
